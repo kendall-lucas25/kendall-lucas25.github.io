@@ -1,0 +1,30 @@
+---
+title: "Kendall Lucas"
+image: correct_headshot1.png
+toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kendall-lucas-64274b386/
+    - icon: github
+      text: Github
+      href: https://github.com/kendall-lucas25
+    - icon: envelope
+      text: Email
+      href: lucask9@duq.edu
+---
+
+::: {#intro}
+Hi, thanks for visiting my website!
+
+## Education
+
+Duquesne University | Pittsburgh, PA | Bacholers in Data Science
+
+## Experience
+
+This summer I am participating in the Carnegie Mellon Sports Analytics Camp
+
+## About Me
