@@ -3,13 +3,14 @@ project:
 
 website:
   title: "Kendall Lucas"
-  favicon: images.png
+  favicon: images/duquesne_logo_2.png
   navbar:
-    logo: imgaes.png
+    logo: images/duquesne_logo_2.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:

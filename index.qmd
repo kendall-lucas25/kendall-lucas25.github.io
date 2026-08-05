@@ -1,6 +1,6 @@
 ---
 title: "Kendall Lucas"
-image: correct_headshot1.png
+image: images/correct_headshot2.jpg
 toc: false
 about:
   template: trestles
@@ -28,3 +28,6 @@ Duquesne University | Pittsburgh, PA | Bacholers in Data Science
 This summer I am participating in the Carnegie Mellon Sports Analytics Camp
 
 ## About Me
+
+
+:::
