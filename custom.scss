@@ -1,10 +1,16 @@
 /*-- scss:defaults --*/
 
 // 1. Define or override Sass variables here (always start with $)
-$navbar-bg: #C92626;
+$navbar-bg: #fefefe;
 $body-bg: #fefefe;
 $body-color: black;
-$link-color: #C41230;
-$hover-color: #C41230;
+$link-color: black;
 $font-family-base: "Helvetica Neue", Arial, sans-serif;
 $font-size-root: 1.1em;
+$navbar-fg: black;
+$navbar-hl: black;
+$navbar-light-color: black;
+$navbar-light-hover-color: black;
+$navbar-light-active-color: black;
+$navbar-light-brand-color: black;
+$navbar-light-brand-hover-color: black;
